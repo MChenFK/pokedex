@@ -1,1 +1,18 @@
-__pycache__/
+# Binary files
+*.exe
+*.out
+*.a
+*.o
+*.so
+*.dil
+
+# Compiled executables
+/pokedexcli
+
+# Go module cache
+/pkg/
+/bin/
+/vendor/
+
+# Logs
+repl.log
