@@ -7,7 +7,7 @@
 *.dil
 
 # Compiled executables
-/pokedexcli
+/pokedex
 
 # Go module cache
 /pkg/
